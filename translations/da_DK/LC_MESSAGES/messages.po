@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Halliwick Competition System\n"
+"POT-Creation-Date: 2014-02-22 13:31+0100\n"
+"PO-Revision-Date: 2014-02-22 13:31+0100\n"
+"Last-Translator: Arne Sostack <arne@whee.dk>\n"
+"Language-Team: Whee.dk <arne@whee.dk>\n"
+"Language: Danish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: C:\\Code\\php\\stavneSystem\\php\\\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: competitiondata.php:31 competitionhead.php:7
+msgid "Stævnedata"
+msgstr ""
+
+#: competitiondata.php:36 newcompetition.php:34 newsignup.php:25
+#: printheats.php:176 printresults.php:188 prints.php:69 printsignup.php:120
+#: printswimmerresults.php:102 printswimmers.php:120 prizes.php:79
+#: signupdata.php:27 signupswimmers.php:245 signupswimmers.php:323
+#: swimmers.php:241 swimmers.php:320
+msgid "Navn"
+msgstr ""
+
+#: competitiondata.php:40 index.php:16 newcompetition.php:38 newsignup.php:29
+#: signupdata.php:31 signups.php:18
+msgid "Dato"
+msgstr ""
+
+#: competitiondata.php:44 newcompetition.php:42 printdiplomas.php:169
+#: printdiplomas.php:365 printdiplomas.php:427
+msgid "Stævneleder"
+msgstr ""
+
+#: competitiondata.php:48 newcompetition.php:46
+msgid "Brug banerne"
+msgstr ""
+
+#: competitiondata.php:61 newcompetition.php:59
+msgid "100 meter ekstra"
+msgstr ""
+
+#: competitiondata.php:67 signupdata.php:36 signupswimmers.php:37
+#: swimmers.php:30
+msgid "Opdater"
+msgstr ""
+
+#: competitionhead.php:8 signuphead.php:8 swimmers.php:230
+msgid "Svømmere"
+msgstr ""
+
+#: competitionhead.php:9 heats.php:114
+msgid "Heats"
+msgstr ""
+
+#: competitionhead.php:10 printresults.php:133 results.php:178
+msgid "Resultater"
+msgstr ""
+
+#: competitionhead.php:11 printteamresults.php:88 printteams.php:64
+#: teams.php:114
+msgid "Stafet"
+msgstr ""
+
+#: competitionhead.php:12 teamresults.php:132
+msgid "Stafetresultater"
+msgstr ""
+
+#: competitionhead.php:13 prizes.php:50
+msgid "Pokaler"
+msgstr ""
+
+#: competitionhead.php:14 diplomas.php:38
+msgid "Diplomer"
+msgstr ""
+
+#: competitionhead.php:15 prints.php:51
+msgid "Udskrifter"
+msgstr ""
+
+#: competitionhead.php:17
+msgid "Stævneliste"
+msgstr ""
+
+#: diplomas.php:49
+msgid "Diplomtype"
+msgstr ""
+
+#: diplomas.php:71
+msgid "Udskriv diplomer"
+msgstr ""
+
+#: diplomas.php:77
+msgid "Alle"
+msgstr ""
+
+#: diplomas.php:105
+msgid "25m Stafet"
+msgstr ""
+
+#: diplomas.php:116
+msgid "50m Stafet"
+msgstr ""
+
+#: head.php:7 head.php:25
+msgid "SystemTitle"
+msgstr "HASI Svømmestævnesystem"
+
+#: heats.php:118 printdiplomas.php:11 printdiplomas.php:222 printheats.php:9
+#: printresults.php:7 printsignup.php:9 printsignup.php:120
+#: printswimmerresults.php:102 printswimmers.php:9 printswimmers.php:120
+#: printteamresults.php:7 printteams.php:9 results.php:183 teamresults.php:136
+#: teams.php:118
+msgid "25m"
+msgstr ""
+
+#: heats.php:119 printdiplomas.php:13 printdiplomas.php:265 printheats.php:11
+#: printresults.php:9 printsignup.php:11 printsignup.php:120
+#: printswimmerresults.php:102 printswimmers.php:11 printswimmers.php:120
+#: printteamresults.php:9 printteams.php:11 results.php:184
+#: teamresults.php:137 teams.php:119
+msgid "50m"
+msgstr ""
+
+#: heats.php:120 printdiplomas.php:15 printdiplomas.php:308 printheats.php:13
+#: printresults.php:11 printsignup.php:13 printsignup.php:120
+#: printswimmerresults.php:102 printswimmers.php:13 printswimmers.php:120
+#: printteamresults.php:11 printteams.php:13 results.php:185
+msgid "100m"
+msgstr ""
+
+#: heats.php:127 results.php:192
+msgid "Runde"
+msgstr ""
+
+#: heats.php:129 results.php:194
+msgid "Indledende"
+msgstr ""
+
+#: heats.php:134 printheats.php:86 results.php:199
+msgid "Semifinale"
+msgstr ""
+
+#: heats.php:135 heats.php:141 printheats.php:90 printresults.php:111
+#: results.php:200 results.php:206
+msgid "Finale"
+msgstr ""
+
+#: heats.php:147 results.php:212
+msgid "Semifinale Ekstraløb"
+msgstr ""
+
+#: heats.php:148 results.php:213
+msgid "Finale Ekstraløb"
+msgstr ""
+
+#: heats.php:155
+msgid "Antal svømmere"
+msgstr ""
+
+#: heats.php:349
+msgid "Antal heats"
+msgstr ""
+
+#: heats.php:444
+msgid "Tilføj heat"
+msgstr ""
+
+#: heats.php:447
+msgid "Udskriv heats"
+msgstr ""
+
+#: heats.php:466
+msgid "Kan ikke generere videregående heats før indledende heats er genereret."
+msgstr ""
+
+#: heats.php:472
+msgid "Gendan heats"
+msgstr ""
+
+#: heats.php:475 heats.php:659
+msgid "med"
+msgstr ""
+
+#: heats.php:475 heats.php:659
+msgid "den bedste"
+msgstr ""
+
+#: heats.php:475 heats.php:659
+msgid "de to bedste"
+msgstr ""
+
+#: heats.php:475 heats.php:659
+msgid "de tre bedste"
+msgstr ""
+
+#: heats.php:475 heats.php:659
+msgid "fra hvert heat"
+msgstr ""
+
+#: heats.php:480
+msgid "Overfør heat til finale"
+msgstr ""
+
+#: heats.php:526 printheats.php:160 results.php:268
+msgid "(Tom)"
+msgstr ""
+
+#: heats.php:526
+msgid "Fjern tom bane"
+msgstr ""
+
+#: heats.php:534
+msgid "For mange baner i brug!"
+msgstr ""
+
+#: heats.php:569
+msgid ""
+"Denne svømmer har svømmet væsentligt langsommere end forventet. Korriger "
+"evt. tilmeldt tid til semifinalen."
+msgstr ""
+
+#: heats.php:574
+msgid "Denne svømmers tid er blevet korrigeret, klik for korrigere igen."
+msgstr ""
+
+#: heats.php:587
+msgid "Denne svømmers starttal ligger for tæt på en andens."
+msgstr ""
+
+#: heats.php:589
+msgid "En svømmers starttal ligger for tæt på en andens."
+msgstr ""
+
+#: heats.php:593
+msgid "Denne svømmer skal svømme ved kant"
+msgstr ""
+
+#: heats.php:595
+msgid "En svømmer skal svømme ved kant"
+msgstr ""
+
+#: heats.php:598
+msgid "Indsæt tom bane"
+msgstr ""
+
+#: heats.php:603 heats.php:607 heats.php:611 results.php:247
+msgid "Heat nr."
+msgstr ""
+
+#: heats.php:603 heats.php:611 printheats.php:176 printresults.php:188
+#: printsignup.php:120 printswimmerresults.php:102 printswimmers.php:120
+#: results.php:247 signupswimmers.php:245 signupswimmers.php:335
+#: swimmers.php:241 swimmers.php:332
+msgid "Klub"
+msgstr ""
+
+#: heats.php:603 heats.php:611 printresults.php:188 printteamresults.php:117
+#: signupswimmers.php:245 signupswimmers.php:324 swimmers.php:241
+#: swimmers.php:321
+msgid "Tid"
+msgstr ""
+
+#: heats.php:603 heats.php:611 printteams.php:91 teams.php:132
+msgid "Starttal"
+msgstr ""
+
+#: heats.php:603 heats.php:611
+msgid "Nulstil baner"
+msgstr ""
+
+#: heats.php:607
+msgid "Slet dette heat"
+msgstr ""
+
+#: heats.php:638
+msgid "Kan ikke generere semifinaler før indledende heats er genereret."
+msgstr ""
+
+#: heats.php:644
+msgid "Kan ikke generere finalen før semifinaleheats er genereret."
+msgstr ""
+
+#: heats.php:650
+msgid ""
+"Kan ikke generere ekstra-finalen før ekstra semifinaleheats er genereret."
+msgstr ""
+
+#: heats.php:656
+msgid "Dan heats"
+msgstr ""
+
+#: heats.php:700 teams.php:292
+msgid "Korriger tid for"
+msgstr ""
+
+#: index.php:12 signups.php:14
+msgid "Stævneoversigt"
+msgstr ""
+
+#: index.php:13 signupdata.php:10 signups.php:15
+msgid "Tilmelding"
+msgstr ""
+
+#: index.php:16 signups.php:18
+msgid "Stævne"
+msgstr ""
+
+#: index.php:17 newcompetition.php:29
+msgid "Nyt stævne"
+msgstr ""
+
+#: loadsignup.php:57 swimmers.php:235
+msgid "Indlæs tilmelding"
+msgstr ""
+
+#: loadsignup.php:61
+msgid "Tilmeldingsfil"
+msgstr ""
+
+#: loadsignup.php:64 newcompetition.php:63 newsignup.php:34 prints.php:26
+#: prizes.php:24 teams.php:284
+msgid "Opret"
+msgstr ""
+
+#: loadsignup.php:64 newcompetition.php:63 newsignup.php:34 prints.php:78
+#: prizes.php:88
+msgid "Fortryd"
+msgstr ""
+
+#: newsignup.php:20 signups.php:19
+msgid "Ny tilmelding"
+msgstr ""
+
+#: printdiplomas.php:22
+msgid "1. plads"
+msgstr ""
+
+#: printdiplomas.php:26
+msgid "2. plads"
+msgstr ""
+
+#: printdiplomas.php:30
+msgid "3. plads"
+msgstr ""
+
+#: printdiplomas.php:135 printdiplomas.php:334 printdiplomas.php:395
+msgid "Diplom"
+msgstr ""
+
+#: printdiplomas.php:144 printdiplomas.php:343 printdiplomas.php:414
+msgid "har deltaget i"
+msgstr ""
+
+#: printdiplomas.php:152 printdiplomas.php:351
+msgid "med følgende resultat:"
+msgstr ""
+
+#: printdiplomas.php:209 printdiplomas.php:252 printdiplomas.php:295
+msgid "finale"
+msgstr ""
+
+#: printdiplomas.php:213 printdiplomas.php:256 printdiplomas.php:299
+msgid "finale ekstra"
+msgstr ""
+
+#: printdiplomas.php:414
+msgid "stafet ved stævnet"
+msgstr ""
+
+#: printheats.php:83 printresults.php:104
+msgid "Indledende runder"
+msgstr ""
+
+#: printheats.php:93
+msgid "Semifinale ekstraløb"
+msgstr ""
+
+#: printheats.php:96 printresults.php:117
+msgid "Finale ekstraløb"
+msgstr ""
+
+#: printheats.php:176
+msgid "Tilmeldt"
+msgstr ""
+
+#: printheats.php:176
+msgid "Tilladt"
+msgstr ""
+
+#: printheats.php:176 printresults.php:188
+msgid "Start"
+msgstr ""
+
+#: printheats.php:176 printresults.php:188
+msgid "Heat"
+msgstr ""
+
+#: printresults.php:107
+msgid "Semifinaler"
+msgstr ""
+
+#: printresults.php:114
+msgid "Semifinaler ekstraløb"
+msgstr ""
+
+#: printresults.php:188 printteamresults.php:117 printteams.php:91
+msgid "Bane"
+msgstr ""
+
+#: printresults.php:188 teamresults.php:148
+msgid "Plac."
+msgstr ""
+
+#: prints.php:37 prizes.php:35 results.php:336 teamresults.php:178
+msgid "Gem"
+msgstr ""
+
+#: prints.php:55
+msgid "Udskrift"
+msgstr ""
+
+#: prints.php:73 prizes.php:83
+msgid "Forespørgsel"
+msgstr ""
+
+#: printsignup.php:57 printswimmers.php:57 signupswimmers.php:265
+#: signupswimmers.php:353 swimmers.php:261 swimmers.php:350
+msgid "Ved kant"
+msgstr ""
+
+#: printsignup.php:67 printsignup.php:71 printswimmers.php:67
+#: printswimmers.php:71 signupswimmers.php:269 signupswimmers.php:354
+#: swimmers.php:265 swimmers.php:351
+msgid "Pilot"
+msgstr ""
+
+#: printsignup.php:82 printsignup.php:86 printswimmers.php:82
+#: printswimmers.php:86 signupswimmers.php:355 swimmers.php:352
+msgid "Diæt"
+msgstr ""
+
+#: printsignup.php:99 printsignup.php:103 printswimmers.php:99
+#: printswimmers.php:103 signupswimmers.php:324 swimmers.php:321
+msgid "Hjælpemidler"
+msgstr ""
+
+#: printsignup.php:117
+msgid "Tilmelding til"
+msgstr ""
+
+#: printsignup.php:120 printswimmers.php:120
+msgid "Note"
+msgstr ""
+
+#: printswimmerresults.php:99
+msgid "Resultatliste"
+msgstr ""
+
+#: printswimmers.php:118
+msgid "Deltagerliste"
+msgstr ""
+
+#: printteamresults.php:117 printteams.php:91 teamresults.php:148
+#: teams.php:132
+msgid "Hold"
+msgstr ""
+
+#: printteamresults.php:117
+msgid "Placering"
+msgstr ""
+
+#: prizes.php:54
+msgid "Pokal"
+msgstr ""
+
+#: prizes.php:54
+msgid "Vinder"
+msgstr ""
+
+#: results.php:221 teamresults.php:143
+msgid "Udskriv resultater"
+msgstr ""
+
+#: results.php:247
+msgid "Till."
+msgstr ""
+
+#: results.php:247 teamresults.php:148
+msgid "Tid 1"
+msgstr ""
+
+#: results.php:247 teamresults.php:148
+msgid "Tid 2"
+msgstr ""
+
+#: results.php:247
+msgid "Pl."
+msgstr ""
+
+#: results.php:331
+msgid "Svømmede ikke"
+msgstr ""
+
+#: results.php:412
+msgid "Er du sikker på, denne svømmer ikke svømmede?"
+msgstr ""
+
+#: signuphead.php:7
+msgid "Stamdata"
+msgstr ""
+
+#: signuphead.php:10
+msgid "Tilmeldinger"
+msgstr ""
+
+#: signupswimmers.php:10
+msgid "Tilmelding svømmere"
+msgstr ""
+
+#: signupswimmers.php:96 swimmers.php:89
+msgid "Tilføj"
+msgstr ""
+
+#: signupswimmers.php:239
+msgid "Generér fil"
+msgstr ""
+
+#: signupswimmers.php:240
+msgid "Udskriv tilmeldinger"
+msgstr ""
+
+#: signupswimmers.php:245 swimmers.php:241
+msgid "Distance"
+msgstr ""
+
+#: signupswimmers.php:279 swimmers.php:275
+msgid "Rediger svømmer"
+msgstr ""
+
+#: signupswimmers.php:279 swimmers.php:275
+msgid "Er du sikker på at du vil lade denne svømmer udgå?"
+msgstr ""
+
+#: signupswimmers.php:279 swimmers.php:275
+msgid "Frameld svømmer"
+msgstr ""
+
+#: signupswimmers.php:306 swimmers.php:303
+msgid "Vælg svømmer"
+msgstr ""
+
+#: signupswimmers.php:309 signupswimmers.php:348 swimmers.php:306
+#: swimmers.php:345
+msgid "Opret ny"
+msgstr ""
+
+#: signupswimmers.php:325 swimmers.php:322
+msgid "25 meter"
+msgstr ""
+
+#: signupswimmers.php:326 swimmers.php:323
+msgid "50 meter"
+msgstr ""
+
+#: signupswimmers.php:327 swimmers.php:324
+msgid "100 meter"
+msgstr ""
+
+#: signupswimmers.php:328 swimmers.php:325
+msgid "25 meter stafet"
+msgstr ""
+
+#: signupswimmers.php:329 swimmers.php:326
+msgid "50 meter stafet"
+msgstr ""
+
+#: signupswimmers.php:352 swimmers.php:349
+msgid "Klubnavn"
+msgstr ""
+
+#: swimmers.php:236
+msgid "Udskriv deltagerliste"
+msgstr ""
+
+#: swimmers.php:281
+msgid "stafet"
+msgstr ""
+
+#: teams.php:126
+msgid "Udskriv heat"
+msgstr ""
+
+#: teams.php:132
+msgid "Tilmeldt tid"
+msgstr ""
+
+#: teams.php:165
+msgid "Klik for at korrigere tiden til stafetten"
+msgstr ""
+
+#: teams.php:179
+msgid ""
+"Denne svømmers tid er korrigeret. Klik for at korrigere tiden til stafetten"
+msgstr ""
+
+#: teams.php:184
+#, php-format
+msgid ""
+"Denne svømmer er 20%% eller mere langsommere end sin tilmeldte tid. Klik for "
+"at korrigere tiden til stafetten"
+msgstr ""
+
+#: teams.php:198
+msgid "Nyt hold"
+msgstr ""
+
+#: teams.php:199
+msgid "For klub"
+msgstr ""
+
+#: teams.php:210
+msgid "Svømmer 1"
+msgstr ""
+
+#: teams.php:221
+msgid "Svømmer 2"
+msgstr ""
+
+#: teams.php:242
+msgid "Svømmer 3"
+msgstr ""
+
+#: teams.php:263
+msgid "Svømmer 4"
+msgstr ""
