@@ -3,7 +3,7 @@
 	ini_set('display_errors', 1);
 
 	// Hvilken slags database skal vi bruge?
-	$dbclass = 'SqliteDB';
+	$dbclass = 'Sqlite3DB';
 
 	// Antal baner i svømmehallen
 	$number_of_tracks = 6;
