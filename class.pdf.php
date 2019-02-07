@@ -1914,7 +1914,7 @@ function stream($options=''){
     $tmp = $this->output();
   }
   header("Content-type: application/pdf");
-  header("Content-Length: ".strlen(ltrim($tmp)));
+  //header("Content-Length: ".strlen(ltrim($tmp)));
   $fileName = (isset($options['Content-Disposition'])?$options['Content-Disposition']:'file.pdf');
   header("Content-Disposition: inline; filename=".$fileName);
   if (isset($options['Accept-Ranges']) && $options['Accept-Ranges']==1){
