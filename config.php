@@ -127,6 +127,7 @@
 
 	putenv("LC_ALL=$locale");
 	setlocale(LC_ALL, $locale);
+	setlocale(LC_NUMERIC, 'C');
 	bindtextdomain("messages", "./translations");
 	textdomain("messages");
 ?>
